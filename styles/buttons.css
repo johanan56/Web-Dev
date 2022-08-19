@@ -1,0 +1,95 @@
+.subs-button {
+  background-color: rgb(204, 0, 0);
+  font-size: 1.4rex;
+  font-weight: bold;
+  color: white;
+  border: none;
+  height: 37px;
+  width: 109.938px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: opacity, 0.8s;
+}
+.subs-button:hover {
+  opacity: 0.8;
+}
+.subs-button:active {
+  background-color: black;
+  opacity: 0.5;
+}
+
+.join-button {
+  background-color: transparent;
+  color: rgb(62, 166, 255);
+  font-weight: 600;
+  border-color: rgb(62, 166, 255);
+  border-width: 1px;
+  border-style: solid;
+  width: 71.9531px;
+  height: 37px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: color, 0.6s;
+  transition: background-color, 0.6s;
+}
+.join-button:hover {
+  background-color: rgb(6, 95, 212);
+  color: white;
+}
+.join-button:active {
+  opacity: 0.6;
+}
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  border: none;
+  border-radius: 50px;
+  width: 90px;
+  height: 40px;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: opacity, 0.5s;
+  transition: box-shadow, 0.5s;
+}
+.tweet-button:hover {
+  opacity: 0.8;
+  box-shadow: 0px 1.8px 3px black;
+}
+.tweet-button:active {
+  opacity: 0.4;
+}
+
+.uber {
+  background-color: black;
+  color: white;
+  width: 120px;
+  height: 40px;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.amazon_cart {
+  margin-top: 25px;
+  margin-left: 10px;
+  background-color: rgb(255, 216, 20);
+  color: black;
+  width: 140px;
+  border: none;
+  height: 30px;
+  border-radius: 50px;
+  font-size: 15px;
+}
+.GitHub {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-top: 17px;
+  width: 90px;
+  height: 35px;
+  border: none;
+  border-radius: 4px;
+}
