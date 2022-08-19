@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&family=Silkscreen&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:wght@500&family=Rubik+Dirt&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Raleway:wght@500&family=Rubik+Dirt&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Iso&family=Silkscreen&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:wght@500&family=Rubik+Dirt&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Raleway:wght@500&family=Rubik+Dirt&display=swap");
 
 .heading {
   font-size: 70px;
   font-weight: bold;
-  font-family: 'Rubik Iso', cursive;
+  font-family: "Rubik Iso", cursive;
   letter-spacing: 2px;
   color: #346751;
   vertical-align: text-top;
@@ -16,7 +16,7 @@
 }
 .sub_heading {
   font-size: 25px;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: "Rubik Dirt", cursive;
   letter-spacing: 0.8px;
   color: #c84b31;
   font-weight: bold;
@@ -25,6 +25,6 @@
   font-weight: bold;
   font-size: 20px;
   color: #ecdbba;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   letter-spacing: 1px;
 }
