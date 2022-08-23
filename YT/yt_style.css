@@ -5,10 +5,20 @@
 .thumbnail {
   width: 319.983px;
   height: 179.55px;
+  margin-left: 3px;
+  margin-right: 10px;
 }
 
 .search_bar {
+  display: block;
   font-family: "Roboto", sans-serif;
   width: 525px;
-  height: 26px;
+  height: 34px;
+  font-size: medium;
+  font-weight: 400px;
+  margin-left: 300px;
+  border-width: thin;
+  cursor: text;
+  border-color: white;
+  border-style: groove;
 }
