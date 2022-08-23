@@ -1,10 +1,14 @@
+/*Fonts*/
+/*Roboto*/
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Raleway:wght@500&family=Roboto&family=Rubik+Dirt&display=swap");
+
 .thumbnail {
   width: 319.983px;
   height: 179.55px;
 }
 
 .search_bar {
+  font-family: "Roboto", sans-serif;
   width: 525px;
   height: 26px;
-  ;
 }
